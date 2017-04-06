@@ -71,7 +71,7 @@ Your server will have these routes:
   - One route to 
 
 ### Database
-MongoDB and Mongoose (ORM). Create a UML Schema for your database, consider [LucidChart](https://www.lucidchart.com/). Add these diagrams to your project.
+Postgres and Sequelize (ORM). Create a UML Schema for your database, consider [LucidChart](https://www.lucidchart.com/). Add these diagrams to your project.
 
 ### Styles
 Make It Pretty!™
